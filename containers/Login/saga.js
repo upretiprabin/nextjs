@@ -25,11 +25,11 @@ function* workerLogin(action) {
       if (role.includes("ROLE_DETECTIVE")) {
         console.log("DETECTIVE");
         yield put(successAuth(loginData));
-        const customer = yield call(postData, {url: CUSTOMER(loginData?.uuid), req: {uuid: loginData?.uuid}});
-        console.log(customer, 'customer');
-        setCookie('customerId', "test_customer", {
-          maxAge: 1 * 60 * 60,
-        });
+        // const customer = yield call(postData, {url: CUSTOMER(loginData?.uuid), req: {uuid: loginData?.uuid}});
+        // console.log(customer, 'customer');
+        // setCookie('customerId', "test_customer", {
+        //   maxAge: 1 * 60 * 60,
+        // });
         yield call(() => Router.push("/dashboard/" + loginData.uuid));
       } else if (role.includes("ROLE_CLIENTS")) {
         console.log('CLIENT');
