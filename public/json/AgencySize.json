@@ -1,0 +1,10 @@
+[
+  { "value": "1", "name": "1" },
+  { "value": "2-4", "name": "2 to 4" },
+  { "value": "5-9", "name": "5 to 9" },
+  { "value": "10-19", "name": "10 to 19" },
+  { "value": "20-99", "name": "20 to 99" },
+  { "value": "100-500", "name": "100 to 500" },
+  { "value": "501+", "name": "501+" },
+  { "value": "No", "name": "Not An Agency" }
+]

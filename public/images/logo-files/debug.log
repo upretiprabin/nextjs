@@ -1,0 +1,481 @@
+[0831/161916.843:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.874:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.891:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.904:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.904:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.904:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161916.904:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/161916.904:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/161917.011:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0831/162117.131:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0831/162117.131:ERROR:raster_decoder.cc(1242)] RasterDecoder context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0831/162117.131:ERROR:raster_decoder.cc(985)]   RasterDecoderImpl: Context reset detected after MakeCurrent.
+[0831/162117.131:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.131:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.132:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162117.133:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.133:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162117.133:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.133:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.133:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.133:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.134:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.134:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.134:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.134:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.134:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.134:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.134:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.135:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.135:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.135:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.135:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.135:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.136:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.136:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.136:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.136:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.136:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162117.137:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162117.137:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162117.137:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.137:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.137:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.137:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162117.137:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162117.137:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.138:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162117.138:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.138:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162117.138:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162117.138:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0831/162117.138:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162117.138:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162117.138:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162119.760:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.791:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.793:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.793:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.793:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.794:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.801:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.807:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.808:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.808:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.808:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.808:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.808:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.826:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.826:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.827:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162119.827:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2E85AB990]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162119.827:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2E85AB990]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162208.932:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0831/162208.932:ERROR:raster_decoder.cc(1242)] RasterDecoder context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0831/162208.932:ERROR:raster_decoder.cc(985)]   RasterDecoderImpl: Context reset detected after MakeCurrent.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.932:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.933:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.933:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.933:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.933:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.933:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.933:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.933:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.933:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162208.934:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.934:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.934:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.934:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162208.934:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162208.934:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0831/162208.934:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162208.934:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162208.934:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162211.545:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.555:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.556:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.556:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.557:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.557:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.557:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.558:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.558:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.558:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.558:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.558:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.562:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.567:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.568:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.577:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.577:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.579:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162211.579:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2D44D41E0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162211.579:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2D44D41E0]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162253.079:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0831/162253.079:ERROR:raster_decoder.cc(1242)] RasterDecoder context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0831/162253.079:ERROR:raster_decoder.cc(985)]   RasterDecoderImpl: Context reset detected after MakeCurrent.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/162253.079:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162253.079:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.079:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.079:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.080:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.080:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.080:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.080:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162253.080:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162253.080:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.080:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.080:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.080:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.081:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.081:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162253.081:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.081:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.081:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/162253.081:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.082:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162253.082:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/162253.082:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/162253.082:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0831/162253.082:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/162253.082:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/162253.082:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/162256.153:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.154:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.155:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.155:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.156:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.157:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.173:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.173:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.173:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/162256.173:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-000001D2C7E54130]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0831/162256.173:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-000001D2C7E54130]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0831/165612.969:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0831/165612.970:ERROR:gles2_cmd_decoder.cc(16335)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0831/165612.970:ERROR:gles2_cmd_decoder.cc(4677)]   GLES2DecoderImpl: Context reset detected after MakeCurrent.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.970:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.971:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.971:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.971:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.972:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.972:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.972:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.972:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/165612.973:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.973:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.973:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.973:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.973:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/165612.973:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.974:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/165612.974:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteFramebuffersEXT without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteVertexArraysOES without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[0831/165612.974:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.974:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/165612.974:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/165612.974:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/165612.974:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/165612.974:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174351.128:ERROR:gles2_cmd_decoder.cc(4669)]   GLES2DecoderImpl: Context lost during MakeCurrent.
+[0831/174351.128:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174351.128:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174351.128:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174351.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174351.128:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174351.771:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0831/174427.560:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0831/174427.560:ERROR:raster_decoder.cc(1242)] RasterDecoder context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0831/174427.562:ERROR:raster_decoder.cc(985)]   RasterDecoderImpl: Context reset detected after MakeCurrent.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.562:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.563:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.563:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.563:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0831/174427.563:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.563:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174427.563:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.563:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.563:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.563:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.564:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.564:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.564:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.565:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.565:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174427.565:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.565:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174427.565:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174427.565:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0831/174427.566:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.566:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0831/174427.566:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0831/174427.566:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0831/174427.566:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0831/174427.566:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[0831/174427.566:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0831/174427.566:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST

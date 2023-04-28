@@ -1,0 +1,4 @@
+export const RESET_REQUESTING = "RESET_REQUESTING";
+export const RESET_SUCCESS = "RESET_SUCCESS";
+export const RESET_ERROR = "RESET_ERROR";
+export const CHANGE_EMAIL = "CHANGE_EMAIL";

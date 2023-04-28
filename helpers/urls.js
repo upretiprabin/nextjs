@@ -1,0 +1,15 @@
+export const LOGIN = '/auth';
+export const FORGOTPASSWORD = '/resetPassword';
+export const CASE = '/cases';
+export const SECTION = '/sections';
+export const INVESTIGATOR = '/investigators';
+export const CLIENTS = '/clients';
+export const NOTES = '/notes';
+export const ACTIVITYLOGS = '/activityEntries';
+export const INVESTIGATORS =(uuid='')=> '/investigators/'+uuid;
+export const CLIENT =(uuid='')=> '/clients/'+uuid;
+export const PHOTO =(uuid='')=> '/generateLink/'+uuid;
+export const CUSTOMER=(uuid='') => '/customer/id?uuid='+uuid;
+export const REGISTER = '/investigators/register';
+export const VERIFY=(uuid='',code) => '/investigators/verifyCode/'+uuid+'?'+new URLSearchParams({code: code}).toString();
+export const GET_CODE =(uuid='') => '/investigators/changeVerifyCode/'+uuid;
